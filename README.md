@@ -2,7 +2,17 @@
 
 ## 🎯 Sobre este Repositório
 
-Este perfil é dedicado à **publicação de cases práticos de DevOps na AWS**, demonstrando implementações reais, automações e boas práticas da indústria.
+⚠️ **IMPORTANTE**: Este perfil é exclusivamente dedicado à **publicação de cases práticos de DevOps na AWS**. 
+
+Aqui você encontrará apenas:
+- ✅ Implementações reais prontas para produção
+- ✅ Automações completas e testadas
+- ✅ Boas práticas da indústria aplicadas
+
+**Não é um perfil de:**
+- ❌ Commits rotineiros ou experimentais
+- ❌ Código exploratório ou testes
+- ❌ Projetos em andamento
 
 ## 🚀 Sobre Mim
 
